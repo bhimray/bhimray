@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilenray&label=Profile%20views&color=0e75b6&theme=radical&style=flat" alt="bilenray" /> </p>
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Language:</h3>
 <p align="left">
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
