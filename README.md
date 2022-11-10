@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Bimlendra Ray</h1>
 <h3 align="center">A Full Stack Developer From Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilenray&label=Profile%20views&color=0e75b6&style=flat" alt="bilenray" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilenray&label=Profile%20views&color=0e75b6&theme=radical&style=flat" alt="bilenray" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray" alt="bilenray" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray&theme=radical" alt="bilenray" /></a> </p>
 
 - 🔭 I’m currently working on [CMS for business website](https://github.com/bilenray/Leni-s-ems-admin-panel.git)
 
