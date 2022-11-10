@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilenray&show_icons=true&locale=en" alt="bilenray" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilenray&" alt="bilenray" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilenray&show_icons=true&theme=radical" alt="bilenray" /></p>
