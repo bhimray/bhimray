@@ -41,9 +41,8 @@
 
 <h3 align="left">Streak:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bilenray&show_icons=true&theme=radical" alt="bilenray" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilenray&show_icons=true&theme=radical&locale=en&layout=compact" alt="bilenray" /></p>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bilenray&show_icons=true&theme=radical&locale=en" alt="bilenray" /></p>
-<br/>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilenray&show_icons=true&theme=radical&locale=en&layout=compact" alt="bilenray" /></p>
