@@ -3,7 +3,15 @@
 <h3 align="center">A Full Stack Developer From Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilenray&label=Profile%20views&color=0e75b6&theme=radical&style=flat" alt="bilenray" /> </p>
-
+<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+</p>
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray&theme=radical" alt="bilenray" /></a> </p>
 
 - 🔭 I’m currently working on [CMS for business website](https://github.com/bilenray/Leni-s-ems-admin-panel.git)
