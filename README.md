@@ -18,9 +18,9 @@
 
 - 🌱 I’m currently learning **Typescripts and Next.js**
 
-- 👯 I’m looking to collaborate on [MyOG project (idea)](https://github.com/bilenray/MyOG-App.git)
+- 👯 I’m looking to collaborate on [MyOG project](https://github.com/bilenray/MyOG-App.git)
 
-- 🤝 I’m looking for help with [MyOG project (idea)](https://github.com/bilenray/MyOG-App.git)
+- 🤝 I’m looking for help with [MyOG project](https://github.com/bilenray/MyOG-App.git)
 
 - 📝 I regularly write articles on error that I encounter while developing and new idea.
 
