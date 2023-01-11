@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bimlendra Ray</h1>
-<h3 align="center">A Full Stack Developer From Nepal</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilenray&label=Profile%20views&color=0e75b6&theme=radical&style=flat&layout=compact" alt="bilenray" /> </p>
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray&theme=radical" alt="bilenray" /></a> </p>
 
-- 🔭 I’m currently working on [CMS for business website](https://github.com/bilenray/Leni-s-ems-admin-panel.git)
+- 🔭 I’m currently working on ERP SYSTEM.
 
 - 🌱 I’m currently learning **Typescripts and Next.js**
 
@@ -24,11 +24,11 @@
 
 - 📝 I regularly write articles on error that I encounter while developing and new idea.
 
-- 💬 Ask me about **React, Graphql, Node, Express, MongoDB**
+- 💬 Ask me about **React, MaterialUI, TailwindCSS, Graphql, Node, Express, MongoDB**
 
 - 📫 Reach me at **raybimlendra@gmail.com**
 
-- ⚡ Fun fact is **I think I can be to much frank.**
+- ⚡ Fun fact is **I think I can be to much frank but with time.**
 <br/>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
