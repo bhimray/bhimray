@@ -14,7 +14,7 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray&theme=radical" alt="bilenray" /></a> </p>
 
-- 🔭 I’m currently working on ERP SYSTEM.
+- 🔭 I’m currently working on **ERP SYSTEM**.
 
 - 🌱 I’m currently learning **Typescripts and Next.js**
 
