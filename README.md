@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **ERP SYSTEM**.
 
-- 🌱 I’m currently learning **Typescripts and Next.js**
+- 🌱 I’m currently learning **Typescripts and Jest.js and D3.js**
 
 - 👯 I’m looking to collaborate on [MyOG project](https://github.com/bilenray/MyOG-App.git)
 
