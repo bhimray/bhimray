@@ -46,7 +46,7 @@
 <br/>
 <h3 align="left">Stats:</h3>
 <br/>
-<a href="https://github.com/bilenray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilenray&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bilen's github stats" /></a> <a href="https://github.com/bilenray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilenray&layout=compact&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/bhimray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhimray&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bilen's github stats" /></a> <a href="https://github.com/bhimray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimray&layout=compact&theme=radical&hide_border=true" /></a>
 
 <h3 align="left">Streak:</h3>
 <br/>
