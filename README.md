@@ -15,7 +15,7 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray&theme=radical" alt="bilenray" /></a> </p>
 
-- 🔭 I’m currently working on **Forestry ERP SYSTEM**.
+- 🔭 I’m currently working on **B2B MOBILE APP**.
 
 - 🌱 I’m currently learning **Typescripts and and D3.js**
 
@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on error that I encounter while developing and new idea.
 
-- 💬 Ask me about **React, MaterialUI, TailwindCSS, Graphql, Node, Express, MongoDB**
+- 💬 Ask me about **React, Kotlin, Jetpack Compose, MaterialUI, TailwindCSS, Graphql, Node, Express, MongoDB**
 
 - 📫 Reach me at **raybimlendra@gmail.com**
 
