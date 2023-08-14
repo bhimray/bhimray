@@ -3,15 +3,6 @@
 <h3 align="center">A Front End Web Developer</h3>
 <h3 align="center">Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilenray&label=Profile%20views&color=0e75b6&theme=radical&style=flat&layout=compact" alt="bilenray" /> </p>
-<br/>
-<h3 align="left">Language:</h3>
-<p align="left">
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-</p>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilenray&theme=radical" alt="bilenray" /></a> </p>
 
@@ -38,7 +29,6 @@
 <a href="https://stackoverflow.com/users/19696483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19696483" height="30" width="40" /></a>
 <a href="https://fb.com/bimlenra ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bimlenra ray" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/almightytechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="almightytechno" height="30" width="40" /></a>
-<a href="/https://www.almightytechno.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.almightytechno.com/" height="30" width="40" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
@@ -47,12 +37,3 @@
 <h3 align="left">Stats:</h3>
 <br/>
 <a href="https://github.com/bhimray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhimray&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Bilen's github stats" /></a> <a href="https://github.com/bhimray/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimray&layout=compact&theme=radical&hide_border=true" /></a>
-
-<h3 align="left">Streak:</h3>
-<br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bilenray&show_icons=true&theme=radical&layout=compact" alt="bilenray" /></p>
-<br/>
-
-<a href="https://codesandbox.io/u/bilenray">
-  <img align="right" alt="Bimlendra Ray | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
