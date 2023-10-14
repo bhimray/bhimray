@@ -5,9 +5,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **B2B MOBILE APP**.
+- 🔭 I’m currently working on **Restaurant Management**.
 
-- 🌱 I’m currently learning **Typescripts and and D3.js**
+- 🌱 I’m currently learning **Typescripts and D3.js**
 
 - 👯 I’m looking to collaborate on [MyOG project](https://github.com/bilenray/MyOG-App.git)
 
