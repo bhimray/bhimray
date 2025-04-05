@@ -1,23 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Bimlendra Ray</h1>
-<h3 align="center">A Front End Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Bimlendra Ray (robotics engineer)</h1>
+<h3 align="center">Robotics Engineer/developer</h3>
 <h3 align="center">Mobile App Developer</h3>
 
-<br/>
 
-- 🔭 I’m currently working on **Restaurant Management**.
-
-- 🌱 I’m currently learning **Typescripts and D3.js**
-
-- 👯 I’m looking to collaborate on [MyOG project](https://github.com/bilenray/MyOG-App.git)
-
-- 🤝 I’m looking for help with [MyOG project](https://github.com/bilenray/MyOG-App.git)
-
-- 📝 I regularly write articles on error that I encounter while developing and new idea.
-
-- 💬 Ask me about **React, Kotlin, Jetpack Compose, MaterialUI, TailwindCSS, Graphql, Node, Express, MongoDB**
-
-- 📫 Reach me at **raybimlendra@gmail.com**
+- 💬 Ask me about **ROS2, Gazebo, Optimization, Soft Robotics,React, Kotlin, Jetpack Compose, MaterialUI**
 
 - ⚡ Fun fact is **I think I can be to much frank but with time.**
 
