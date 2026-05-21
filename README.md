@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Bimlendra Ray </h1>
+<h1 align="center">Hi 👋, I hope you find what you looking for :) </h1>
 
-- 💬 * LOADING ..... ..*
+- 💬 * LOADING ... .. .. .. .. *
 
-- ⚡ Fun fact is **If I survive till last moment, I am achieving it**
+- ⚡ Fun fact is **If I survive till last moment, I am achieving it: Conclusion, survival is important.**
 
